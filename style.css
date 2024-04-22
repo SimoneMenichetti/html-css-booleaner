@@ -27,3 +27,18 @@ body{
 .subscrivetitle{
     color: lightgray;
 }
+
+/* Build Table special option */
+
+.tablecontenitor{
+    
+    font-size: 10px;
+}
+.specialfirst{
+    background-color: rgba(0, 174, 255, 0.945);
+    color: white;
+}
+
+.specialsecond{
+    background-color: lightskyblue;
+}
