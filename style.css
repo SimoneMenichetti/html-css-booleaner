@@ -2,9 +2,6 @@ body{
     margin: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-    
-    
-    
 }
 
 /* build background pattern pre header */
@@ -29,7 +26,6 @@ body{
 }
 
 /* Build Table special option */
-
 .tablecontenitor{
     
     font-size: 10px;
@@ -44,19 +40,18 @@ body{
 }
 
 /* picturetextfooter */
-
 .monitortext{
-margin: 0px;
-background-image: url("./img/monitor.jpg");
-background-repeat: no-repeat;
-color: #FFFFFF;
-background-color: white;
-font-size: 140%;
-font-weight: normal;
-line-height: 260px;
-text-align: center;
-width: 240px;
-height: 150px;
+    margin: 0px;
+    background-image: url("./img/monitor.jpg");
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: white;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
 }
 
 .graphtext{
@@ -71,4 +66,4 @@ height: 150px;
     text-align: center;
     width: 240px;
     height: 150px;
-    }
+}
