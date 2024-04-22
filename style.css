@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    width: auto;
+}
+
+/* build background pattern pre header */
+
+.container{
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    background-repeat;
+    width: 800px;
+    height: 100px;
+}
+
